@@ -1,0 +1,7 @@
+"Model","nTP","nPos","nTotal","TPR (Response Rate)","TPR Increase (vs. T_Inflamed)"
+"T_Inflamed",6,11,21,0.545454545454545,0
+"T_Inflamed + Stabl_top10",6,11,21,0.545454545454545,0
+"T_Inflamed + Stabl_top15",7,11,21,0.636363636363636,0.0909090909090909
+"T_Inflamed + Stabl_top20",7,11,21,0.636363636363636,0.0909090909090909
+"T_Inflamed + Stabl_top25",8,11,21,0.727272727272727,0.181818181818182
+"T_Inflamed + Stabl_top30",8,11,21,0.727272727272727,0.181818181818182
