@@ -1,5 +1,5 @@
 # NSCLC_ICB_CombBiomarker
-This repository includes the code and data for the analysis in the manuscript titled: **"Optimizing T Cell Inflamed Signature: A Combination Biomarker Approach for Predicting NSCLC Immunotherapy Response"**
+This repository includes the code and data for the analysis in the manuscript titled: **"Optimizing T Cell Inflamed Signature through A Combination Biomarker Approach for Predicting Immunotherapy Response in NSCLC"**
 
 **main.ipynb**: the R script notebook for the main analysis
 
